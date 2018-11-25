@@ -304,15 +304,4 @@
         xsi:type="archimate:Capability"
         href="Capability_ebf8f1c6-164c-46ae-b5e0-751eb8caadd0.xml#ebf8f1c6-164c-46ae-b5e0-751eb8caadd0"/>
   </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="a3f19369-a666-4f62-b8c4-a569560b348f"
-      textAlignment="1"
-      content="https://www.google.com/search?q=business+Capabilities+of+big+data&amp;client=firefox-b&amp;source=lnms&amp;tbm=isch&amp;sa=X&amp;ved=0ahUKEwiMpp6TpLPeAhWKEVAKHTKZDOoQ_AUIDigB&amp;biw=1280&amp;bih=625#imgrc=4QxBEUUaD-Tr4M:">
-    <bounds
-        x="303"
-        y="551"
-        width="185"
-        height="80"/>
-  </children>
 </archimate:ArchimateDiagramModel>

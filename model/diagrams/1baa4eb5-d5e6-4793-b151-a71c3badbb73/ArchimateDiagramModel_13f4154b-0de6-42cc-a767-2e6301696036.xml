@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Minimal ESB"
+    name="Minimaler ESB"
     id="13f4154b-0de6-42cc-a767-2e6301696036">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

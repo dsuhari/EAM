@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Reporting und Analytics"
+    name="Abgrenzung BI und Advance Analytics"
     id="a9f716c0-1258-44f8-b1d7-072163f04b6c">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

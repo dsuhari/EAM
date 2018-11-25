@@ -1,11 +1,12 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Geschäftsfunktion"
+    name="Geschäftsfähigkeit und -funktion"
     id="56a16272-9c1f-48a4-9f35-e92f55ed3a80">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="97a5fbd5-5ee3-4a4f-b46d-67a9dbf9ed35">
+      id="97a5fbd5-5ee3-4a4f-b46d-67a9dbf9ed35"
+      targetConnections="f3084786-5a8b-49d5-8199-bb7011fd6638 71b08eba-6a88-45e9-bf4c-f5eb13605897">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="1dee7795-501c-46ff-8e8b-c6374d673412"
@@ -40,6 +41,15 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="534e22f7-167b-4e66-b709-ff691925c814">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="f3084786-5a8b-49d5-8199-bb7011fd6638"
+        source="534e22f7-167b-4e66-b709-ff691925c814"
+        target="97a5fbd5-5ee3-4a4f-b46d-67a9dbf9ed35">
+      <archimateRelationship
+          xsi:type="archimate:ServingRelationship"
+          href="ServingRelationship_1e39976b-557b-4cb3-bc0c-71e733a228e3.xml#1e39976b-557b-4cb3-bc0c-71e733a228e3"/>
+    </sourceConnections>
     <bounds
         x="204"
         y="444"
@@ -52,6 +62,15 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="2dee1582-b5cb-449a-889e-43f012d6c558">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="71b08eba-6a88-45e9-bf4c-f5eb13605897"
+        source="2dee1582-b5cb-449a-889e-43f012d6c558"
+        target="97a5fbd5-5ee3-4a4f-b46d-67a9dbf9ed35">
+      <archimateRelationship
+          xsi:type="archimate:ServingRelationship"
+          href="ServingRelationship_730df07b-50d5-4287-a9f0-9f520be62775.xml#730df07b-50d5-4287-a9f0-9f520be62775"/>
+    </sourceConnections>
     <bounds
         x="384"
         y="444"

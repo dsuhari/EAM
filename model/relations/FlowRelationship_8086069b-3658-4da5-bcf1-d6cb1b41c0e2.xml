@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="konsumiert"
+    id="8086069b-3658-4da5-bcf1-d6cb1b41c0e2">
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_67778007-053a-4bc9-9919-8c4575df6961.xml#67778007-053a-4bc9-9919-8c4575df6961"/>
+  <target
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_a47c9c97-6cb5-4748-86b5-dfbd8f45152a.xml#a47c9c97-6cb5-4748-86b5-dfbd8f45152a"/>
+</archimate:FlowRelationship>

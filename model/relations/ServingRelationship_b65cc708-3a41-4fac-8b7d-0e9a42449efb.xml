@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="wird als Ganzes angeboten"
+    id="b65cc708-3a41-4fac-8b7d-0e9a42449efb">
+  <source
+      xsi:type="archimate:Product"
+      href="Product_c3efef19-131a-4a9f-8ded-b81cc7c39688.xml#c3efef19-131a-4a9f-8ded-b81cc7c39688"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_4c0aa4b2-706b-4b81-9a76-0b50d90ed189.xml#4c0aa4b2-706b-4b81-9a76-0b50d90ed189"/>
+</archimate:ServingRelationship>

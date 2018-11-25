@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="dient"
+    id="5edd54a1-3d60-439b-9f74-2bcd1d3b1cfb">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_6764d177-2a6b-4e5d-9db1-0e7d4f51c6d2.xml#6764d177-2a6b-4e5d-9db1-0e7d4f51c6d2"/>
+  <target
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_a1511603-54ce-435e-ace3-d1cc8e902e5c.xml#a1511603-54ce-435e-ace3-d1cc8e902e5c"/>
+</archimate:ServingRelationship>

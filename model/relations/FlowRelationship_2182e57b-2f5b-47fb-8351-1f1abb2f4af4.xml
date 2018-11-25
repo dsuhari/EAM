@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="batch ETL"
+    id="2182e57b-2f5b-47fb-8351-1f1abb2f4af4">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_b311f77f-5228-4138-b6c0-5607d4b9e46a.xml#b311f77f-5228-4138-b6c0-5607d4b9e46a"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_36776e23-8025-47cc-aa4b-07e125aa35df.xml#36776e23-8025-47cc-aa4b-07e125aa35df"/>
+</archimate:FlowRelationship>

@@ -1,0 +1,12 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="bietet an"
+    id="f7100d2d-8377-49fa-81ff-56c11101014e">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_634c30c9-074c-42a7-9892-0c993d261cf5.xml#634c30c9-074c-42a7-9892-0c993d261cf5"/>
+  <target
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_29d42457-f3a5-4d00-a293-8d4005ce83f2.xml#29d42457-f3a5-4d00-a293-8d4005ce83f2"/>
+</archimate:CompositionRelationship>

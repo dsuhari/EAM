@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Geschäftsarchitektur - Einzelelemente"
+    id="331f6dbc-209d-4f78-ae79-aff41e3f7bfe">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="6201c3c3-d7d5-4a7e-83ed-8744ee0320cb">
+    <bounds
+        x="466"
+        y="299"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Product"
+        href="Product_b6978aff-2ed0-41aa-b59a-c884158615d2.xml#b6978aff-2ed0-41aa-b59a-c884158615d2"/>
+  </children>
+</archimate:ArchimateDiagramModel>

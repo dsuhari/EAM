@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CRUD"
+    id="52bd2490-1b24-43f7-bb37-c6609396d747"
+    accessType="3">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_3dbd58b8-94bd-4c65-b2fc-43dd907c30c0.xml#3dbd58b8-94bd-4c65-b2fc-43dd907c30c0"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_61f72119-708a-4977-9dc6-34d2f5855dae.xml#61f72119-708a-4977-9dc6-34d2f5855dae"/>
+</archimate:AccessRelationship>

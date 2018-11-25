@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Datenfluss"
+    id="593fc249-df80-4ef9-86ec-a7e25cd7c198">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_812b4c53-8b11-4878-b106-27f8c326a061.xml#812b4c53-8b11-4878-b106-27f8c326a061"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_a4fbcf66-fcf8-4803-870c-9d2b98b895d4.xml#a4fbcf66-fcf8-4803-870c-9d2b98b895d4"/>
+</archimate:FlowRelationship>

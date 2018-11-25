@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RU"
+    id="b1c6fab7-f735-43f6-bb66-b91726db9eaa"
+    accessType="3">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_a4fbcf66-fcf8-4803-870c-9d2b98b895d4.xml#a4fbcf66-fcf8-4803-870c-9d2b98b895d4"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_0a785828-13e8-4037-b528-c7e848e25693.xml#0a785828-13e8-4037-b528-c7e848e25693"/>
+</archimate:AccessRelationship>

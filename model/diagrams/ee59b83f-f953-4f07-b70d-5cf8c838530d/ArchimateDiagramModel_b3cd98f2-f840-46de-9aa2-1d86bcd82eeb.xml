@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Übungsaufgabe"
+    id="b3cd98f2-f840-46de-9aa2-1d86bcd82eeb">
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="ca21a75c-42ca-4b3d-aca6-cc2f280e51f1"
+      font="1|Segoe UI|18.0|1|WINDOWS|1|-30|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      textAlignment="1"
+      content="Modellieren Sie die erarbeitete Referenzarchitektur der Fa. CAM GmbH">
+    <bounds
+        x="72"
+        y="48"
+        width="529"
+        height="109"/>
+  </children>
+</archimate:ArchimateDiagramModel>

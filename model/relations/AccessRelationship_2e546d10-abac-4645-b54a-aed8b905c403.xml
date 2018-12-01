@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ist Master von"
+    id="2e546d10-abac-4645-b54a-aed8b905c403">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_d57a4fc3-c7d5-41cb-8824-76be4283a4df.xml#d57a4fc3-c7d5-41cb-8824-76be4283a4df"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_3a9efcd0-ac2f-4616-b2b7-bc9a286a131e.xml#3a9efcd0-ac2f-4616-b2b7-bc9a286a131e"/>
+</archimate:AccessRelationship>
